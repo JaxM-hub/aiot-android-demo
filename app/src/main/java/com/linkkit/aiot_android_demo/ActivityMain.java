@@ -59,8 +59,7 @@ public class ActivityMain extends AppCompatActivity {
     final private String DEVICENAME = "phone";
     final private String DEVICESECRET = "89bd860db8319ae8f0a2e9141920ac87";
     /*
-?ceshi
-???
+
 
  final private String PRODUCTKEY = "a1OOBsgpcAd";
     final private String DEVICENAME = "test1";
@@ -488,7 +487,7 @@ ELSE
 
                 AlertDialog.Builder builder = new AlertDialog.Builder(ActivityMain.this);
                 builder.setTitle("版本信息");
-                builder.setMessage("开发者:缪智强 1807020215\n开发版本号:4.1.2");
+                builder.setMessage("开发者:JaxC\n开发版本号:4.1.2");
                 /*
                 builder.setNegativeButton("取消", new DialogInterface.OnClickListener() {
                     @Override
