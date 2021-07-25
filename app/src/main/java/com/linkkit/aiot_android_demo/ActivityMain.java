@@ -59,7 +59,7 @@ public class ActivityMain extends AppCompatActivity {
     final private String DEVICENAME = "phone";
     final private String DEVICESECRET = "89bd860db8319ae8f0a2e9141920ac87";
     /*
-
+?ceshi
 
 
  final private String PRODUCTKEY = "a1OOBsgpcAd";
