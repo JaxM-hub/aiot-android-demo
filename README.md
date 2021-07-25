@@ -13,3 +13,4 @@
   - 8.点按版本信息可以显示应用信息
 - 使用方法:
   - 将mainActivity中的三元组改成自己的三元组即可 代码里有JASON包的格式
+- ![avatar](https://github.com/JaxC-hub/.mdPicture/blob/9d2168d786f97d4e45a620b97f38c3a37baddad6/yijia.jpg)
